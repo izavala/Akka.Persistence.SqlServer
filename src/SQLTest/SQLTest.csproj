@@ -6,7 +6,9 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="akka" Version="1.4.0-beta636900940571695582" />
+    <PackageReference Include="Akka" Version="1.3.12" />
+    <PackageReference Include="Akka.Persistence" Version="1.3.12" />
   </ItemGroup>
+
 
 </Project>
